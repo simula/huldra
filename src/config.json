@@ -1,0 +1,328 @@
+{
+  "REACT_APP_warning": {
+    "warningMessage": "Please view this page on a device with a screen resolution of at least 1200 x 800.",
+    "title": "Huldra"
+  },
+  "REACT_APP_home": {
+    "title": "Huldra: Sample Title",
+    "introText": "This is a sample subtitle or introduction text.",
+    "signupText": "If you don't have a participant ID, you can have one by clicking the button below.",
+    "additionalText": "Please view this application in full screen mode."
+  },
+  "REACT_APP_registration": {
+    "Q1": {
+      "label": "Name"
+    },
+    "Q2": {
+      "label": "E-mail address"
+    },
+    "Q3": {
+      "label": "Country",
+      "showTooltip": true,
+      "tooltipMessage": "This field is mandatory."
+    },
+    "Q4": {
+      "label": "Comments"
+    },
+    "Q5": {
+      "label": "Degree",
+      "showTooltip": true,
+      "tooltipMessage": "This field is mandatory."
+    },
+    "Q6": {
+      "label": "Mandatory question",
+      "showTooltip": true,
+      "tooltipMessage": "This field is mandatory."
+    },
+    "Q7": {
+      "label": "Optional question",
+      "showTooltip": true,
+      "tooltipMessage": "This field is mandatory and must be a number."
+    },
+    "Q8": {
+      "label": "Text for mandatory tickbox."
+    },
+    "Q9": {
+      "label": "Text for optional tickbox."
+    }
+  },
+
+  "REACT_APP_background": [
+    {
+      "sectionTitle": "Background",
+      "sectionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at nisi diam. Phasellus sed nulla ornare, ullamcorper justo a, dictum diam. Ut massa nibh, suscipit id magna facilisis, eleifend aliquam ipsum. Praesent erat libero, luctus nec ligula nec, tincidunt scelerisque mauris. Pellentesque consectetur nibh risus. Vestibulum pellentesque auctor orci a viverra. Curabitur eu lacus nulla.Nullam nulla justo, semper tincidunt tempor eget, porttitor et metus. Vestibulum in massa vestibulum, tristique libero vitae, porta elit. Fusce sollicitudin nulla ut tellus ornare, a pretium nulla laoreet. Proin gravida orci fermentum nisi lobortis ornare. Fusce egestas porta tincidunt. Donec placerat viverra diam non dignissim. Cras vel est ut tellus euismod ultricies. Nunc finibus sem felis, sed laoreet dolor hendrerit vel. Sed tincidunt varius erat at consequat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Nullam in nulla at nunc tincidunt elementum. Aliquam finibus vel ligula non blandit. Nunc ultricies feugiat libero, eu viverra orci facilisis in. Donec ultrices iaculis rutrum. Etiam eu luctus mi. Phasellus augue nunc, gravida ut pretium at, faucibus eu mauris. Ut ac vulputate elit. Donec massa justo, semper sit amet quam id, commodo pulvinar dui.",
+      "sectionClassName": "section",
+      "sectionTitleClassName": "section-title",
+      "sectionTextClassName": "background-text-content",
+      "sectionContent": []
+    },
+    {
+      "sectionTitle": "Sample Section Title",
+      "sectionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus. Maecenas nec ultrices nisi. Maecenas sapien nulla, porttitor vel facilisis et, fermentum ut massa. Vivamus molestie eros non quam dictum, vitae dapibus turpis viverra. Cras id mauris tempor, rhoncus tellus vel, dictum nisl. Vivamus orci ex, interdum non justo eget, fringilla auctor purus. Donec in elementum mi, id mattis mauris. Integer in tincidunt nunc. In hac habitasse platea dictumst. Pellentesque nec mi ornare, viverra lectus nec, egestas sapien.",
+      "sectionClassName": "section",
+      "sectionTitleClassName": "section-title",
+      "sectionTextClassName": "background-text-content",
+      "sectionContent": [
+        {
+          "title": "Sample Subsection Title",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus. Maecenas nec ultrices nisi. Maecenas sapien nulla, porttitor vel facilisis et, fermentum ut massa. Vivamus molestie eros non quam dictum, vitae dapibus turpis viverra. Cras id mauris tempor, rhoncus tellus vel, dictum nisl. Vivamus orci ex, interdum non justo eget, fringilla auctor purus. Donec in elementum mi, id mattis mauris. Integer in tincidunt nunc. In hac habitasse platea dictumst. Pellentesque nec mi ornare, viverra lectus nec, egestas sapien.",
+          "className": "explanation-background",
+          "imagePath": "/gallery/sample-image.png",
+          "imageClassName": "explanation-background-image",
+          "imageAlternativeText": "sample-image",
+          "descriptionClassName": "explanation-background-description",
+          "titleClassName": "explanation-background-label",
+          "textClassName": "background-text-content"
+        },
+        {
+          "title": "Sample Subsection Title",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus. Maecenas nec ultrices nisi. Maecenas sapien nulla, porttitor vel facilisis et, fermentum ut massa. Vivamus molestie eros non quam dictum, vitae dapibus turpis viverra. Cras id mauris tempor, rhoncus tellus vel, dictum nisl. Vivamus orci ex, interdum non justo eget, fringilla auctor purus. Donec in elementum mi, id mattis mauris. Integer in tincidunt nunc. In hac habitasse platea dictumst. Pellentesque nec mi ornare, viverra lectus nec, egestas sapien.",
+          "className": "explanation-background",
+          "imagePath": "/gallery/sample-image.png",
+          "imageClassName": "explanation-background-image",
+          "imageAlternativeText": "sample-image",
+          "descriptionClassName": "explanation-background-description",
+          "titleClassName": "explanation-background-label",
+          "textClassName": "background-text-content"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Sample Section Title",
+
+      "sectionClassName": "section",
+      "sectionTitleClassName": "section-title",
+      "sectionTextClassName": "background-text-content",
+      "sectionContent": [
+        {
+          "title": "Sample Subsection Title",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus. Maecenas nec ultrices nisi. Maecenas sapien nulla, porttitor vel facilisis et, fermentum ut massa. Vivamus molestie eros non quam dictum, vitae dapibus turpis viverra. Cras id mauris tempor, rhoncus tellus vel, dictum nisl. Vivamus orci ex, interdum non justo eget, fringilla auctor purus. Donec in elementum mi, id mattis mauris. Integer in tincidunt nunc. In hac habitasse platea dictumst. Pellentesque nec mi ornare, viverra lectus nec, egestas sapien.",
+          "className": "explanation-background",
+          "imagePath": "/gallery/sample-image.png",
+          "imageClassName": "explanation-background-image",
+          "imageAlternativeText": "sample-image",
+          "descriptionClassName": "explanation-background-description",
+          "titleClassName": "explanation-background-label",
+          "textClassName": "background-text-content"
+        }
+      ]
+    }
+  ],
+  "REACT_APP_demonstration": [
+    {
+      "textBefore": "You can have a demonstration page with a single image.",
+      "textAfter": "You can use this page to describe how the rest of the survey works.",
+      "hasImage": true,
+
+      "imagePath": "/gallery/sample-image.png",
+      "imageClassName": "demonstration-image"
+    },
+    {
+      "textBefore": "You can have a demonstration page with a single video player (custom size).",
+      "textAfter": "You can use this page to run a video check, or to display a tutorial video showing how the rest of the survey works.",
+      "hasVideo": true,
+      "videoPath": "/gallery/countdown.mp4",
+      "videoHeight": "300px",
+      "videoWidth": "450px"
+    },
+    {
+      "textBefore": "You can have a demonstration page with a single audio player (custom size).",
+      "textAfter": "You can use this page to run a sound check, or to play a tutorial audio describing how the rest of the survey works.",
+      "hasAudio": true,
+      "audioPath": "/gallery/audio-sample.mp3",
+      "audioHeight": "300px",
+      "audioWidth": "450px"
+    }
+  ],
+  "REACT_APP_caseImage": {
+    "caseImageColumnLeft": { "label": "Case" },
+    "caseImageColumnMiddle": {
+      "title": "Answer Options",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus.",
+      "leftSectionTitle": "Option A",
+      "leftSectionButtonlabel": "View details",
+      "leftSectionTextWithIconsLabel": "Viewed",
+      "rightSectionTitle": "Option B",
+      "rightSectionButtonlabel": "View details",
+      "rightSectionTextWithIconsLabel": "Viewed",
+      "popupA": {
+        "mainTitle": "Sample Title for Popup A",
+        "leftImageTitle": "Original",
+        "rightImageTitle": "Option A",
+        "descriptionTitle": "Description",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus."
+      },
+      "popupB": {
+        "mainTitle": "Sample Title for Popup B",
+        "leftImageTitle": "Original",
+        "rightImageTitle": "Option B",
+        "descriptionTitle": "Description",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus.",
+        "gallerySubstring": "similar"
+      }
+    },
+    "caseImageColumnRight": {
+      "title": "Your Answer",
+      "text": "Please click on one of the thumbnails (option A or B) to place it on top. Do not drag and drop the image. The top image is your preferred option for this case."
+    }
+  },
+  "REACT_APP_caseHybrid": {
+    "caseHybridColumnLeft": { "label": "Case" },
+    "caseHybridColumnMiddle": {
+      "title": "Answer Options",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus.",
+      "leftSectionTitle": "Option A",
+      "leftSectionButtonlabel": "View details",
+      "leftSectionTextWithIconsLabel": "Viewed",
+      "rightSectionTitle": "Option B",
+      "rightSectionButtonlabel": "View details",
+      "rightSectionTextWithIconsLabel": "Viewed",
+      "popupA": {
+        "mainTitle": "Sample Title for Popup A",
+        "leftImageTitle": "Original",
+        "rightImageTitle": "Option A",
+        "descriptionTitle": "Description",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus."
+      },
+      "popupB": {
+        "mainTitle": "Sample Title for Popup B",
+        "leftImageTitle": "Original",
+        "rightImageTitle": "Option B",
+        "descriptionTitle": "Description",
+        "descriptionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce neque odio, tempus quis sapien id, accumsan aliquam nunc. Proin tincidunt, felis nec iaculis rutrum, ex quam condimentum ante, id sagittis elit odio sed risus.",
+        "gallerySubstring": "similar"
+      }
+    },
+    "caseHybridColumnRight": {
+      "title": "Your Answer",
+      "text": "Please click on one of the thumbnails (option A or B) to place it on top. Do not drag and drop the image. The top image is your preferred option for this case."
+    }
+  },
+  "REACT_APP_caseVideo": {
+    "caseVideoColumnLeft": {
+      "label": "Case",
+      "sectionVideoHeight": "200px",
+      "sectionVideoWidth": "410px",
+      "rightSectionVideoLabel": "Video Clip B",
+      "leftSectionVideoLabel": "Video Clip A",
+      "sectionButtonlabel": "Select"
+    },
+    "caseVideoColumnRight": {
+      "title": "Your Answer",
+      "text": "Please select one of the video clips to place it on top. The top video clip is your preferred option for this case."
+    }
+  },
+  "REACT_APP_caseAudio": {
+    "caseAudioColumnLeft": {
+      "label": "Case",
+      "sectionAudioHeight": "200px",
+      "sectionAudioWidth": "410px",
+      "rightSectionAudioLabel": "Audio Clip B",
+      "leftSectionAudioLabel": "Audio Clip A",
+      "sectionButtonlabel": "Select"
+    },
+    "caseAudioColumnRight": {
+      "title": "Your Answer",
+      "text": "Please select one of the audio clips to place it on top. The top audio clip is your preferred option for this case."
+    }
+  },
+  "REACT_APP_caseOrder": {
+    "cases": [
+      "0819d3ca-4951-4127-a06a-9d61bc43e0e1",
+      "hybrid-test",
+      "audio-ogg",
+      "Video-test",
+      "audio-valid"
+    ],
+    "shuffle": "categorized"
+  },
+  "REACT_APP_summaryAndFeedback": {
+    "summary": {
+      "title": "Summary of cases",
+      "text": "Lorem ipsum tur repudiandae nobis! Vero itaque dolorum dicta!",
+      "label": "Case",
+      "videoPlaceholderIconPath": "/gallery/video-placeholder.png",
+      "audioPlaceholderIconPath": "/gallery/audio-placeholder.png",
+      "imagePlaceholderIconPath": "/gallery/empty.png"
+    },
+    "feedbackForm": {
+      "title": "Overall feedback",
+      "text": "Lorem ipsum tur repudiandae nobis! Vero itaque dolorum dicta!",
+      "feedbackFormQuestions": [
+        {
+          "questionType": "text",
+          "id": "Q1",
+          "label": "Example free form text question.",
+          "optional": false,
+          "showTooltip": false,
+          "className": "feedback-text-input",
+          "outputJsonLabelText": "Example_Text"
+        },
+
+        {
+          "questionType": "likert",
+          "label": "Example likert question block.",
+          "optional": false,
+          "id": "Q2",
+          "likertQuestions": [
+            {
+              "question": "Example likert question 1.",
+              "size": 10,
+              "label": "Likert_Question_1"
+            },
+            {
+              "question": "Example likert question 2.",
+              "size": 10,
+              "label": "Likert_Question_2"
+            },
+            {
+              "question": "Example likert question 3.",
+              "size": 10,
+              "label": "Likert_Question_3"
+            }
+          ]
+        },
+        {
+          "questionType": "mc",
+          "label": "Example multiple choice question.",
+          "id": "Q3",
+          "choices": ["Example choice 1.", "Example choice 2."],
+          "outputJsonLabelRadioOptionId": "Example_MultipleChoice_OptionId",
+          "outputJsonLabelRadioText": "Example_MultipleChoice_Text",
+          "outputJsonLabelText": "Example_MultipleChoice_Detail"
+        }
+      ]
+    }
+  },
+  "REACT_APP_end": {
+    "title": "",
+    "endMessage": "Thank you for participating in our survey!",
+    "redirectTimeout": 2500
+  },
+  "REACT_APP_outputJson": [
+    "ParticipantInfo",
+    "CaseOrder",
+    "SoftwareInfo",
+    "CaseStudyAnswers",
+    "SessionEvents",
+    "FeedbackFormAnswers",
+    "SessionInfo"
+  ],
+  "REACT_APP_footer": {
+    "icon1ClassName": "fa fa-envelope-o mr-1 fa-lg generic-icon",
+    "icon2ClassName": "fa fa-github ml-1 fa-lg generic-icon",
+    "icon1Url": "mailto:huldra@simula.no",
+    "icon2Url": "https://github.com/simula/huldra",
+    "label": "huldra@simula.no"
+  },
+  "REACT_APP_header": {
+    "labelBackground": "Background",
+    "labelDemonstration": "Demonstration",
+    "labelCase": "Questionnaire",
+    "labelSummaryAndFeedback": "Summary and Feedback"
+  },
+  "REACT_APP_general": {
+    "softwareInfoTag": "NA (Development)",
+    "appName": "Huldra"
+  }
+}
