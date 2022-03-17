@@ -123,6 +123,13 @@ a:hover {
   height: 100%;
   padding: 0.8em;
 }
+.summary-and-feedback-wrapper-centered {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding: 0.8em;
+  justify-content: center;
+}
 .demonstration-sections-wrapper {
   display: flex;
   flex-direction: column;
@@ -226,7 +233,6 @@ a:hover {
   align-items: flex-start;
   height: 100%;
   width: 50%;
-
   overflow-y: auto;
   padding-right: 0.5em;
 }
