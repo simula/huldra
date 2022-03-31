@@ -46,9 +46,13 @@ gallery
 
 | Video Format | Support |
 | ------------- | ------------- |
+| `AVI`  | ❌  |
+| `FLV`  | ❌  |
+| `MKV`  | ❌  |
 | `MOV`  | ✅   |
 | `MP4`  | ✅   |
 | `WEBM`  | ✅   |
+| `WMV`  | ❌  |
 
 | Image Format | Support |
 | ------------- | ------------- |
