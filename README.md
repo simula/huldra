@@ -46,8 +46,9 @@ gallery
 
 | Video Format | Support |
 | ------------- | ------------- |
+| `MOV`  | ✅   |
 | `MP4`  | ✅   |
-
+| `WEBM`  | ✅   |
 
 | Image Format | Support |
 | ------------- | ------------- |
