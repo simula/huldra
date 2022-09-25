@@ -101,3 +101,27 @@ The page will reload if you make edits.
 ## 5. Outputs
 
 You can retrieve participant response files from your S3 bucket (`<root directory>` -> `responses`) at your convenience.
+
+## 6. References
+* [Huldra: a framework for collecting crowdsourced feedback on multimedia assets](https://dl.acm.org/doi/abs/10.1145/3524273.3532887)
+* [Automatic thumbnail selection for soccer videos using machine learning](https://dl.acm.org/doi/abs/10.1145/3524273.3528182)
+* [HOST-ATS: automatic thumbnail selection with dashboard-controlled ML pipeline and dynamic user survey](https://dl.acm.org/doi/abs/10.1145/3524273.3532908)
+* [Visual explanations for polyp detection: How medical doctors assess intrinsic versus extrinsic explanations
+](https://arxiv.org/abs/2204.00617)
+ ## 6. Citation
+ If you find our work useful for your research, please include the following citation:
+```
+@inproceedings{Hammou2022,
+  doi = {10.1145/3524273.3532887},
+  url = {https://doi.org/10.1145/3524273.3532887},
+  year = {2022},
+  month = jun,
+  publisher = {{ACM}},
+  author = {Malek Hammou and Cise Midoglu and Steven A. Hicks and Andrea Stor{\aa}s and Saeed Shafiee Sabet and Inga Str\"{u}mke and Michael A. Riegler and P{\aa}l Halvorsen},
+  title = {Huldra},
+  booktitle = {Proceedings of the 13th {ACM} Multimedia Systems Conference}
+}
+```
+
+
+
